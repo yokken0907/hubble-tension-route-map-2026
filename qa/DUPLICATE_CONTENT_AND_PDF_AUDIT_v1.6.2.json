@@ -1,0 +1,18 @@
+{
+  "version": "v1.6.2-public-clean-citation-refresh",
+  "status": "PASS",
+  "languages": {
+    "ja": {
+      "chapter_count": 31,
+      "near_duplicate_pairs": [],
+      "status": "PASS"
+    },
+    "en": {
+      "chapter_count": 31,
+      "near_duplicate_pairs": [],
+      "status": "PASS"
+    }
+  },
+  "threshold": 0.92,
+  "near_duplicates": []
+}

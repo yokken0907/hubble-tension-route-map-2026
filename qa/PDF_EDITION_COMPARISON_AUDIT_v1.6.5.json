@@ -1,0 +1,113 @@
+{
+  "version": "v1.6.5-public-final-clean",
+  "recommended_reader_edition": [
+    "pdf/reader_edition/Hubble_Tension_Route_Map_2026_JA_v1.6.5_reader.pdf",
+    "pdf/reader_edition/Hubble_Tension_Route_Map_2026_EN_v1.6.5_reader.pdf"
+  ],
+  "secondary_compact_print_edition": [
+    "pdf/compact_print_edition/Hubble_Tension_Route_Map_2026_JA_v1.6.5_compact_print_preserved_from_v1.6.2.pdf",
+    "pdf/compact_print_edition/Hubble_Tension_Route_Map_2026_EN_v1.6.5_compact_print_preserved_from_v1.6.2.pdf"
+  ],
+  "pdf_results": [
+    {
+      "path": "pdf/reader_edition/Hubble_Tension_Route_Map_2026_JA_v1.6.5_reader.pdf",
+      "pages": 60,
+      "text_chars": 36716,
+      "internal_links": 93,
+      "encrypted": false,
+      "rendered_pages": 60,
+      "raw_anchor_hits": 0,
+      "HOLD_hits": 0,
+      "TBD_hits": 0,
+      "TODO_hits": 0,
+      "PLACEHOLDER_hits": 0,
+      "v1_3_0_hits": 0,
+      "internal_version_line_v165": true,
+      "mojibake_named_destinations_detected": 0,
+      "refresh_keyword_hits": {
+        "GW170817": true,
+        "GRB170817A": true,
+        "CCHP": true,
+        "photon decoupling": true,
+        "last scattering": true,
+        "再結合": true,
+        "最終散乱": true
+      }
+    },
+    {
+      "path": "pdf/reader_edition/Hubble_Tension_Route_Map_2026_EN_v1.6.5_reader.pdf",
+      "pages": 65,
+      "text_chars": 69828,
+      "internal_links": 93,
+      "encrypted": false,
+      "rendered_pages": 65,
+      "raw_anchor_hits": 0,
+      "HOLD_hits": 0,
+      "TBD_hits": 0,
+      "TODO_hits": 0,
+      "PLACEHOLDER_hits": 0,
+      "v1_3_0_hits": 0,
+      "internal_version_line_v165": true,
+      "mojibake_named_destinations_detected": 0,
+      "refresh_keyword_hits": {
+        "GW170817": true,
+        "GRB170817A": true,
+        "CCHP": true,
+        "photon decoupling": true,
+        "last scattering": true,
+        "再結合": false,
+        "最終散乱": false
+      }
+    },
+    {
+      "path": "pdf/compact_print_edition/Hubble_Tension_Route_Map_2026_JA_v1.6.5_compact_print_preserved_from_v1.6.2.pdf",
+      "pages": 32,
+      "text_chars": 50892,
+      "internal_links": 220,
+      "encrypted": false,
+      "rendered_pages": 32,
+      "raw_anchor_hits": 0,
+      "HOLD_hits": 0,
+      "TBD_hits": 0,
+      "TODO_hits": 0,
+      "PLACEHOLDER_hits": 0,
+      "v1_3_0_hits": 0,
+      "internal_version_line_v165": true,
+      "mojibake_named_destinations_detected": 0,
+      "refresh_keyword_hits": {
+        "GW170817": true,
+        "GRB170817A": false,
+        "CCHP": true,
+        "photon decoupling": false,
+        "last scattering": false,
+        "再結合": true,
+        "最終散乱": true
+      }
+    },
+    {
+      "path": "pdf/compact_print_edition/Hubble_Tension_Route_Map_2026_EN_v1.6.5_compact_print_preserved_from_v1.6.2.pdf",
+      "pages": 34,
+      "text_chars": 82282,
+      "internal_links": 220,
+      "encrypted": false,
+      "rendered_pages": 34,
+      "raw_anchor_hits": 0,
+      "HOLD_hits": 0,
+      "TBD_hits": 0,
+      "TODO_hits": 0,
+      "PLACEHOLDER_hits": 0,
+      "v1_3_0_hits": 0,
+      "internal_version_line_v165": true,
+      "mojibake_named_destinations_detected": 0,
+      "refresh_keyword_hits": {
+        "GW170817": true,
+        "GRB170817A": false,
+        "CCHP": true,
+        "photon decoupling": true,
+        "last scattering": false,
+        "再結合": false,
+        "最終散乱": false
+      }
+    }
+  ]
+}

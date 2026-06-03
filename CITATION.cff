@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this educational handbook, please cite it using the metadata below."
+title: "Hubble Tension Route Map - 2026 Edition (Public Final Clean)"
+authors:
+  - family-names: "Yoshimura"
+    given-names: "Keiji"
+version: "v1.6.5-public-final-clean"
+date-released: "2026-06-03"
+abstract: >
+  This repository contains a claim-bounded educational handbook on the Hubble tension.
+  It does not claim to solve the Hubble tension, propose a new cosmological model,
+  overturn Lambda-CDM, or provide expert-reviewed conclusions.
+keywords:
+  - Hubble tension
+  - cosmology education
+  - observational probes
+  - CMB
+  - distance ladder
+  - BAO
+  - SNe Ia
+  - S8 tension
+  - early dark energy
+  - claim-boundary
+license: "CC-BY-NC-4.0"
+repository-code: "https://github.com/yokken0907/hubble-tension-route-map-2026"
+url: "https://github.com/yokken0907/hubble-tension-route-map-2026"
