@@ -2,6 +2,14 @@
 
 This repository contains a claim-bounded educational route map for learning the Hubble tension.
 
+## Project Website
+
+A browser-friendly project page is available here:
+
+https://yokken0907.github.io/hubble-tension-route-map-2026/
+
+This project is an educational route map for understanding the Hubble tension. It does not claim to solve the Hubble tension, propose a new cosmological model, or conclude that ΛCDM has collapsed.
+
 ## Recommended PDFs
 
 Use the **reader edition** for normal reading:
