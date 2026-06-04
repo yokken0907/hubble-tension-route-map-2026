@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yokken0907.github.io/hubble-tension-route-map-2026/sitemap.xml
